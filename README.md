@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Ritiksah99344&label=Profile%20views&color=0e75b6&style=flat" alt="Ritikkumar993" /> 
+<!--   <img src="https://komarev.com/ghpvc/?username=Ritiksah99344&label=Profile%20views&color=0e75b6&style=flat" alt="Ritikkumar993" />  -->
 </p>
 
 <img src="https://github.com/Ritikkumar993/Ritikkumar993/blob/main/github-header-image.png">
