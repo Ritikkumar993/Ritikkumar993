@@ -1,8 +1,8 @@
 <p align="left"> 
-<!--   <img src="https://komarev.com/ghpvc/?username=Ritiksah99344&label=Profile%20views&color=0e75b6&style=flat" alt="Ritikkumar993" />  -->
+<img src="https://komarev.com/ghpvc/?username=Ritiksah99344&label=Profile%20views&color=0e75b6&style=flat" alt="Ritikkumar993" />
 </p>
 
-<img src="https://github.com/Ritikkumar993/Ritikkumar993/blob/main/github-header-image.png">
+
 
 <h3 align="center">👋 Hey Developers, I'm <span style="color:#0e75b6;">Ritik Kumar</span></h3>
 <h3 align="center">Software Developer</h3>
